@@ -1,1 +1,0 @@
-Es solo un ejemplo para un archivo
